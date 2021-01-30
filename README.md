@@ -9,7 +9,7 @@
 - 📫 Please email via tony5t4rk@163.com to reach me.
 - 📝 See my website: [Tony5t4rk](http://tony5t4rk.cn) to get more info.
 
-[![Tony5t4rk's GitHub stats](https://github-readme-stats.vercel.app/api?username=tony5t4rk)](https://github.com/anuraghazra/github-readme-stats)
+[Tony5t4rk's GitHub stats](https://github-readme-stats.vercel.app/api?username=tony5t4rk)
 
 <!--
 **Tony5t4rk/Tony5t4rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
