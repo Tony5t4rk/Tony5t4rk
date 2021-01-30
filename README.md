@@ -4,7 +4,6 @@
 
 - 👨‍💻 I'm currently a student at Soochow University, engaged in NLP research;
 - 🌱 I'm currently learning Natural language processing; 
-- 🤔 My interests are with multi-hop reading comprehension, commonsense reasoning, etc..;
 - 💼 I'm studying for a master's degree in computer science and technology;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via tony5t4rk@163.com to reach me.
@@ -25,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🤔 My interests are with multi-hop reading comprehension, commonsense reasoning, etc..;
 -->
