@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning Natural language processing; 
 - 💼 I'm studying for a master's degree in computer science and technology;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via tony5t4rk@163.com to reach me.
+- 📫 Please email via tony5t4rk@163.com to reach me;
 - 📝 See my website: [Tony5t4rk](http://tony5t4rk.cn) to get more info.
 
 ![Tony5t4rk's GitHub stats](https://github-readme-stats.vercel.app/api?username=tony5t4rk)
